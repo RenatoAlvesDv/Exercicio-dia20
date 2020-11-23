@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\bin\Debug\netcoreapp3.1\Excercicio-dia20.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\bin\Debug\netcoreapp3.1\Excercicio-dia20.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\bin\Debug\netcoreapp3.1\Excercicio-dia20.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\bin\Debug\netcoreapp3.1\Excercicio-dia20.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\bin\Debug\netcoreapp3.1\Excercicio-dia20.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\bin\Debug\netcoreapp3.1\Excercicio-dia20.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\obj\Debug\netcoreapp3.1\Excercicio-dia20.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\obj\Debug\netcoreapp3.1\Excercicio-dia20.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\obj\Debug\netcoreapp3.1\Excercicio-dia20.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\obj\Debug\netcoreapp3.1\Excercicio-dia20.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\obj\Debug\netcoreapp3.1\Excercicio-dia20.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\obj\Debug\netcoreapp3.1\Excercicio-dia20.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Excercicio-dia20\obj\Debug\netcoreapp3.1\Excercicio-dia20.genruntimeconfig.cache
